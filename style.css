@@ -1,0 +1,15 @@
+* {
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+#the-form {
+	color: yellow;
+	background: purple;
+	max-width: 200px;
+	padding: 1em;
+	margin: 0 auto;
+}
+#the-form p {
+	margin-bottom: 1em;
+}
